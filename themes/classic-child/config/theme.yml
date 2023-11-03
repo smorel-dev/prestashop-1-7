@@ -1,0 +1,11 @@
+parent: classic
+name: classic-child
+display_name: Classic child
+version: 1.0.0
+author:
+  name: "Stephane MOREL"
+  email: "smorel.dev@gmail.com"
+  url: "https://www.prestashop.com"
+
+assets:
+  use_parent_assets: true
